@@ -1,5 +1,5 @@
 
-# 🦊 MyWeb3App
+# MyWeb3App
 
 > **Login Without Google. Own Your Data.**  
 > Your identity secured by your wallet — private, decentralized, yours.
@@ -19,19 +19,13 @@ It uses Ethereum wallets and cryptographic signatures to prove identity — **co
 - 🌈 Fully responsive (desktop & mobile)
 - 🚀 Built with React, RainbowKit, Wagmi, Framer Motion, ethers.js & Parallax Tilt
 
----
 
-## 🚀 Live Demo
-
-👉 [Demo Link (optional)](https://yourappdomain.com)  
-(Replace with your deployed site URL if using Vercel, Netlify, etc.)
-
----
 
 ## 🖼️ Screenshots
 
-<img src="./screenshot1.png" alt="screenshot" width="800"/>
-<img src="./screenshot2.png" alt="screenshot" width="800"/>
+<img width="1861" height="917" alt="image" src="https://github.com/user-attachments/assets/a4ae53f3-21d0-4d47-b56f-4449e8e68813" />
+<img width="1191" height="724" alt="image" src="https://github.com/user-attachments/assets/11f74766-5f3e-457d-ad0e-124a7cb54094" />
+
 
 ---
 
@@ -88,26 +82,13 @@ http://localhost:5173
 - No data leaves your browser.  
 - You’ll see a **success** card with your ENS or short address.
 
----
 
-## 📂 Project Structure
-
-\`\`\`
-src/
-│
-├── App.tsx      # Main component
-├── App.css      # Styling
-├── main.tsx     # Entry point
-└── ...
-\`\`\`
 
 ### 🏗️ Core Libraries
 - **[wagmi](https://wagmi.sh/)**: Ethereum React hooks
 - **[ethers.js](https://docs.ethers.io/)**: Ethereum cryptography & signing
 - **[@rainbow-me/rainbowkit](https://rainbowkit.com/)**: Wallet UI & connectors
 - **[framer-motion](https://www.framer.com/motion/)**: Animations
-- **[react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)**: Tilt hover effect
-
 ---
 
 ## 🔐 Security & Privacy
@@ -117,58 +98,11 @@ src/
 ✅ **Verification happens client-side via \`verifyMessage\`**  
 ✅ **Your wallet is your private login key.**
 
----
-
-## 🚀 Deployment
-
-You can easily deploy this on:
-- [Vercel](https://vercel.com)
-- [Netlify](https://netlify.com)
-- [Cloudflare Pages](https://pages.cloudflare.com)
-
-\`\`\`bash
-# Example for Vercel
-npx vercel deploy
-\`\`\`
-
----
-
-## ✨ Possible Future Improvements
-
-✅ ENS avatars & profile fetching  
-✅ Wallet-based protected pages  
-✅ Store preferences in IPFS or localStorage  
-✅ More beautiful animated particles background
-
----
-
-## 🙌 Contributing
-
-Pull requests are welcome!  
-If you’d like to add a feature or fix a bug, please open an issue first to discuss it.
-
----
 
 ## 📝 License
 
 This project is open source under the **MIT License**.  
 Feel free to fork, modify, and build your own.
-
----
-
-## 💙 Acknowledgements
-
-- [RainbowKit](https://rainbowkit.com)
-- [wagmi](https://wagmi.sh)
-- [ethers.js](https://docs.ethers.io/)
-- [Framer Motion](https://www.framer.com/motion/)
-
----
-
-## 🚀 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 ---
 
