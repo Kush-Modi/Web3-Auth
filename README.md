@@ -19,21 +19,12 @@ It uses Ethereum wallets and cryptographic signatures to prove identity — **co
 - 🌈 Fully responsive (desktop & mobile)
 - 🚀 Built with React, RainbowKit, Wagmi, Framer Motion, ethers.js & Parallax Tilt
 
----
-
-## 🚀 Live Demo
-
-👉 [Demo Link (optional)](https://yourappdomain.com)  
-(Replace with your deployed site URL if using Vercel, Netlify, etc.)
-
----
-
 ## 🖼️ Screenshots
 
-<img src="./screenshot1.png" alt="screenshot" width="800"/>
-<img src="./screenshot2.png" alt="screenshot" width="800"/>
+<img width="1861" height="917" alt="Screenshot 2025-07-11 160022" src="https://github.com/user-attachments/assets/0783da9d-a651-46cf-aab4-56004e465e52" />
 
----
+<img width="1191" height="724" alt="Screenshot 2025-07-11 160039" src="https://github.com/user-attachments/assets/df90664b-79b3-497d-94a5-58ce14ffd3d0" />
+
 
 ## 🛠️ Tech Stack
 
@@ -117,30 +108,6 @@ src/
 ✅ **Verification happens client-side via \`verifyMessage\`**  
 ✅ **Your wallet is your private login key.**
 
----
-
-## 🚀 Deployment
-
-You can easily deploy this on:
-- [Vercel](https://vercel.com)
-- [Netlify](https://netlify.com)
-- [Cloudflare Pages](https://pages.cloudflare.com)
-
-\`\`\`bash
-# Example for Vercel
-npx vercel deploy
-\`\`\`
-
----
-
-## ✨ Possible Future Improvements
-
-✅ ENS avatars & profile fetching  
-✅ Wallet-based protected pages  
-✅ Store preferences in IPFS or localStorage  
-✅ More beautiful animated particles background
-
----
 
 ## 🙌 Contributing
 
@@ -154,23 +121,6 @@ If you’d like to add a feature or fix a bug, please open an issue first to dis
 This project is open source under the **MIT License**.  
 Feel free to fork, modify, and build your own.
 
----
-
-## 💙 Acknowledgements
-
-- [RainbowKit](https://rainbowkit.com)
-- [wagmi](https://wagmi.sh)
-- [ethers.js](https://docs.ethers.io/)
-- [Framer Motion](https://www.framer.com/motion/)
-
----
-
-## 🚀 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
----
 
 🎉 **Enjoy building truly decentralized apps with Web3!**  
 _If you like it, star ⭐ the repo and share!_
